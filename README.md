@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at PuStack.
+- I build awesome softwares
 - 🌱 I’m currently learning Flutter, JavaScript, Node.Js.
 - 📫 How to reach me: sanskar@flutternerd.com
 - 😄 Pronouns: he/him
