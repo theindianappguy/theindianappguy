@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I build awesome softwares
-- I’m currently learning Flutter, JavaScript, Node.Js.
+- I’m currently learning Flutter, JavaScript, Node.Js, React, Next.
 - How to reach me: sanskar@flutternerd.com
 - Pronouns: he/him
 
