@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Flutter, JavaScript, Node.Js, React, Next...
 
-- 📫 How to reach me: sanskar@flutternerd.com
+- 📫 How to reach me: contact@sanskar.dev
 
 - Pronouns: he/him
 
