@@ -1,9 +1,5 @@
 ### Hi there 👋 🙂
 
-- 🔭 I’m currently working on [blurweb.app](http://blurweb.app/), [click2contact.app](http://click2contact.app), [sendsimple.app](http://sendsimple.app), [certifysimple.app](https://www.certifysimple.app)
-
-- 🌱 I’m currently learning Flutter, JavaScript, Node.Js, React, Next...
-
 - 📫 How to reach me: contact@sanskar.dev
 
 - Pronouns: he/him
