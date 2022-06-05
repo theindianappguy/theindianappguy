@@ -1,6 +1,6 @@
 ### Hi there 👋 🙂
 
-- 📫 How to reach me: contact@sanskar.dev
+- 📫 How to reach me: theindianappguy@gmail.com
 
 - Pronouns: he/him
 
