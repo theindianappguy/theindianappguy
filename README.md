@@ -13,6 +13,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theindianappguy&" alt="theindianappguy" /></p>
 
 <!-- TODO-IST:START -->
+🏆  753 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 15 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 <!-- <!-- TODO-IST::START -->
