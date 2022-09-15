@@ -11,13 +11,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theindianappguy&show_icons=true&locale=en" alt="theindianappguy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theindianappguy&" alt="theindianappguy" /></p>
-
-<!-- TODO-IST:START -->
-🏆  839 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 16 tasks so far           
-⏳  Longest streak is 1 days
-<!-- TODO-IST:END -->
-
-<!-- <!-- TODO-IST::START -->
-<!-- <!-- TODO-IST::END -->
