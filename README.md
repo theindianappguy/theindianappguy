@@ -13,4 +13,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theindianappguy&" alt="theindianappguy" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   18 hrs 59 mins  █████████████▓░░░░░░░░░░░   54.14 %
+TypeScript   13 hrs 56 mins  ██████████░░░░░░░░░░░░░░░   39.77 %
+CSS          51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+HTML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+```
+
 <!--END_SECTION:waka-->
