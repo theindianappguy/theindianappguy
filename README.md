@@ -11,3 +11,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theindianappguy&show_icons=true&locale=en" alt="theindianappguy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theindianappguy&" alt="theindianappguy" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
