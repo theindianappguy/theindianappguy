@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2022 - To: 08 December 2024
+From: 14 September 2022 - To: 09 December 2024
 
-Total Time: 1,664 hrs 15 mins
+Total Time: 1,667 hrs 16 mins
 
-TypeScript       981 hrs 15 mins >>>>>>>>>>>>>>>----------   58.96 %
-JavaScript       425 hrs 30 mins >>>>>>-------------------   25.57 %
-HTML             151 hrs 52 mins >>-----------------------   09.13 %
+TypeScript       984 hrs 14 mins >>>>>>>>>>>>>>>----------   59.03 %
+JavaScript       425 hrs 30 mins >>>>>>-------------------   25.52 %
+HTML             151 hrs 52 mins >>-----------------------   09.11 %
 Bash             33 hrs 48 mins  >------------------------   02.03 %
-JSON             31 hrs 34 mins  -------------------------   01.90 %
+JSON             31 hrs 34 mins  -------------------------   01.89 %
 ```
 
 <!--END_SECTION:waka-->
